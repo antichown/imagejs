@@ -1,3 +1,6 @@
 imagejs 
 -------
 Tek yapmanız gereken python yazılımıyla aynı dizine google.bmp isimli değiştirilmemiş bir tane resim bırakmak, js dosyasındaki kodları kendinize göre editleyip pythonu çalıştırmak ve somucu görmek içinde demo.htm ye bakmak
+kodlar sadece bmp içindir
+gif için yapmak isteyenler
+GIF89a/*[GIF data]*/=0;jskodunuz formatında yapmalıdır
